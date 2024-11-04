@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil 
 
 Meu nome é Mariana França
 
@@ -6,7 +6,7 @@ Meu nome é Mariana França
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo 
 
 mariana.ferreira.franca@escola.pr.gov.br
 
