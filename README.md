@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 
 
-Meu nome é Mariana França
+Meu nome é Milena Camargo Teixeira
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -8,7 +8,7 @@ Meu nome é Mariana França
 
 ### Você pode entrar em contato comigo 
 
-mariana.ferreira.franca@escola.pr.gov.br
+t.milena@escola.pr.gov.br
 
-@mariana.f.f.zelone
+
 
